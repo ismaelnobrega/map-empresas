@@ -1,0 +1,1934 @@
+[
+  {
+    "cnae":"1012-1/01",
+    "descricao":"ABATE DE AVES"
+  },
+  {
+    "cnae":"4724-5/00",
+    "descricao":"COMÉRCIO VAREJISTA DE HORTIFRUTIGRANJEIROS"
+  },
+  {
+    "cnae":"1531-9/02",
+    "descricao":"ACABAMENTO DE CALÇADOS DE COURO SOB CONTRATO"
+  },
+  {
+    "cnae":"01/09/4722",
+    "descricao":"COMÉRCIO VAREJISTA DE CARNES - AÇOUGUES"
+  },
+  {
+    "cnae":"07/02/9609",
+    "descricao":"ALOJAMENTO DE ANIMAIS DOMÉSTICOS"
+  },
+  {
+    "cnae":"02/01/8011",
+    "descricao":"SERVIÇOS DE ADESTRAMENTO DE CÃES DE GUARDA"
+  },
+  {
+    "cnae":"02/05/5310",
+    "descricao":"ATIVIDADES DE FRANQUEADAS DO CORREIO NACIONAL"
+  },
+  {
+    "cnae":"7911-2/00",
+    "descricao":"AGÊNCIAS DE VIAGENS"
+  },
+  {
+    "cnae":"04/03/9603",
+    "descricao":"SERVIÇOS DE FUNERÁRIAS"
+  },
+  {
+    "cnae":"02/02/9609",
+    "descricao":"AGÊNCIAS MATRIMONIAIS"
+  },
+  {
+    "cnae":"1412-6/02",
+    "descricao":"CONFECÇÃO, SOB MEDIDA, DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS"
+  },
+  {
+    "cnae":"4520-0/04",
+    "descricao":"SERVIÇOS DE ALINHAMENTO E BALANCEAMENTO DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"9329-8/99",
+    "descricao":"OUTRAS ATIVIDADES DE RECREAÇÃO E LAZER NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/07/4785",
+    "descricao":"COMÉRCIO VAREJISTA DE ANTIGUIDADES"
+  },
+  {
+    "cnae":"0161-0/01",
+    "descricao":"SERVIÇO DE PULVERIZAÇÃO E CONTROLE DE PRAGAS AGRÍCOLAS"
+  },
+  {
+    "cnae":"6399-2/00",
+    "descricao":"OUTRAS ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/03/2599",
+    "descricao":"SERVIÇOS DE CONFECÇÃO DE ARMAÇÕES METÁLICAS PARA A CONSTRUÇÃO"
+  },
+  {
+    "cnae":"8211-3/00",
+    "descricao":"SERVIÇOS COMBINADOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO"
+  },
+  {
+    "cnae":"3212-4/00",
+    "descricao":"FABRICAÇÃO DE BIJUTERIAS E ARTEFATOS SEMELHANTES"
+  },
+  {
+    "cnae":"2219-6/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE BORRACHA NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"2349-4/99",
+    "descricao":"FABRICAÇÃO DE PRODUTOS CERÂMICOS NÃO-REFRATÁRIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"2330-3/99",
+    "descricao":"FABRICAÇÃO DE OUTROS ARTEFATOS E PRODUTOS DE CONCRETO, CIMENTO, FIBROCIMENTO, GESSO E MATERIAIS SEMELHANTES"
+  },
+  {
+    "cnae":"1629-3/02",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DIVERSOS DE CORTIÇA, BAMBU, PALHA, VIME E OUTROS MATERIAIS TRANÇADOS, EXCETO MÓVEIS"
+  },
+  {
+    "cnae":"1529-7/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE COURO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"2330-3/99",
+    "descricao":"FABRICAÇÃO DE OUTROS ARTEFATOS E PRODUTOS DE CONCRETO, CIMENTO, FIBROCIMENTO, GESSO E MATERIAIS SEMELHANTES"
+  },
+  {
+    "cnae":"01/01/2399",
+    "descricao":"DECORAÇÃO, LAPIDAÇÃO, GRAVAÇÃO, VITRIFICAÇÃO E OUTROS TRABALHOS EM CERÂMICA, LOUÇA, VIDRO E CRISTAL"
+  },
+  {
+    "cnae":"1629-3/01",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DIVERSOS DE MADEIRA, EXCETO MÓVEIS"
+  },
+  {
+    "cnae":"03/05/2391",
+    "descricao":"APARELHAMENTO DE PLACAS E EXECUÇÃO DE TRABALHOS EM MÁRMORE, GRANITO, ARDÓSIA E OUTRAS PEDRAS"
+  },
+  {
+    "cnae":"2599-3/99",
+    "descricao":"FABRICAÇÃO DE OUTROS PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/06/3211",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE JOALHERIA E OURIVESARIA"
+  },
+  {
+    "cnae":"3299-0/99",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DIVERSOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1749-4/00",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE PASTAS CELULÓSICAS, PAPEL, CARTOLINA, PAPEL-CARTÃO E PAPELÃO ONDULADO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"2229-3/99",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO PARA OUTROS USOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"2319-2/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS DE VIDRO"
+  },
+  {
+    "cnae":"9609-2/99",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"05/04/4330",
+    "descricao":"APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+  },
+  {
+    "cnae":"4520-0/04",
+    "descricao":"SERVIÇOS DE ALINHAMENTO E BALANCEAMENTO DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"04/01/4721",
+    "descricao":"COMÉRCIO VAREJISTA DE DOCES, BALAS, BOMBONS E SEMELHANTES"
+  },
+  {
+    "cnae":"08/02/9609",
+    "descricao":"HIGIENE E EMBELEZAMENTO DE ANIMAIS DOMÉSTICOS"
+  },
+  {
+    "cnae":"01/05/9602",
+    "descricao":"CABELEIREIROS"
+  },
+  {
+    "cnae":"5099-8/99",
+    "descricao":"OUTROS TRANSPORTES AQUAVIÁRIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4712-1/00",
+    "descricao":"COMÉRCIO VAREJISTA DE MERCADORIAS EM GERAL, COM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS - MINIMERCADOS, MERCEARIAS E ARMAZÉNS"
+  },
+  {
+    "cnae":"1031-7/00",
+    "descricao":"FABRICANTE DE CONSERVAS DE FRUTAS"
+  },
+  {
+    "cnae":"02/02/5320",
+    "descricao":"SERVIÇOS DE ENTREGA RÁPIDA"
+  },
+  {
+    "cnae":"7319-0/99",
+    "descricao":"OUTRAS ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1092-9/00",
+    "descricao":"FABRICAÇÃO DE BISCOITOS E BOLACHAS"
+  },
+  {
+    "cnae":"01/03/4322",
+    "descricao":"INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+  },
+  {
+    "cnae":"1414-2/00",
+    "descricao":"FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO, EXCETO PARA SEGURANÇA E PROTEÇÃO"
+  },
+  {
+    "cnae":"1340-5/99",
+    "descricao":"OUTROS SERVIÇOS DE ACABAMENTO EM FIOS, TECIDOS, ARTEFATOS TÊXTEIS E PEÇAS DO VESTUÁRIO"
+  },
+  {
+    "cnae":"4520-0/06",
+    "descricao":"SERVIÇOS DE BORRACHARIA PARA VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"01/05/2391",
+    "descricao":"BRITAMENTO DE PEDRAS, EXCETO ASSOCIADO À EXTRAÇÃO"
+  },
+  {
+    "cnae":"01/05/9602",
+    "descricao":"CABELEIREIROS, MANICURE E PEDICURE"
+  },
+  {
+    "cnae":"05/04/4330",
+    "descricao":"APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+  },
+  {
+    "cnae":"4399-1/99",
+    "descricao":"SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/02/4930",
+    "descricao":"TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANÇAS, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL"
+  },
+  {
+    "cnae":"02/09/9001",
+    "descricao":"PRODUÇÃO MUSICAL"
+  },
+  {
+    "cnae":"4520-0/08",
+    "descricao":"SERVIÇOS DE CAPOTARIA"
+  },
+  {
+    "cnae":"1622-6/99",
+    "descricao":"FABRICAÇÃO DE OUTROS ARTIGOS DE CARPINTARIA PARA CONSTRUÇÃO"
+  },
+  {
+    "cnae":"02/04/4330",
+    "descricao":"INSTALAÇÃO DE PORTAS, JANELAS, TETOS, DIVISÓRIAS E ARMÁRIOS EMBUTIDOS DE QUALQUER MATERIAL"
+  },
+  {
+    "cnae":"5212-5/00",
+    "descricao":"CARGA E DESCARGA"
+  },
+  {
+    "cnae":"9609-2/99",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3811-4/00",
+    "descricao":"COLETA DE RESÍDUOS NÃO-PERIGOSOS"
+  },
+  {
+    "cnae":"01/02/4930",
+    "descricao":"TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANÇAS, MUNICIPAL"
+  },
+  {
+    "cnae":"04/02/4930",
+    "descricao":"TRANSPORTE RODOVIÁRIO DE MUDANÇAS"
+  },
+  {
+    "cnae":"8299-7/99",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1414-2/00",
+    "descricao":"FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO, EXCETO PARA SEGURANÇA E PROTEÇÃO"
+  },
+  {
+    "cnae":"02/01/9529",
+    "descricao":"CHAVEIROS"
+  },
+  {
+    "cnae":"1093-7/01",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DERIVADOS DO CACAU E DE CHOCOLATES"
+  },
+  {
+    "cnae":"5612-1/00",
+    "descricao":"SERVIÇOS AMBULANTES DE ALIMENTAÇÃO"
+  },
+  {
+    "cnae":"02/01/5620",
+    "descricao":"SERVIÇOS DE ALIMENTAÇÃO PARA EVENTOS E RECEPÇÕES - BUFÊ"
+  },
+  {
+    "cnae":"1821-1/00",
+    "descricao":"SERVIÇOS DE PRÉ-IMPRESSÃO"
+  },
+  {
+    "cnae":"8291-1/00",
+    "descricao":"ATIVIDADES DE COBRANÇAS E INFORMAÇÕES CADASTRAIS"
+  },
+  {
+    "cnae":"3104-7/00",
+    "descricao":"FABRICAÇÃO DE COLCHÕES"
+  },
+  {
+    "cnae":"3811-4/00",
+    "descricao":"COLETA DE RESÍDUOS NÃO-PERIGOSOS"
+  },
+  {
+    "cnae":"3812-2/00",
+    "descricao":"COLETA DE RESÍDUOS PERIGOSOS"
+  },
+  {
+    "cnae":"06/02/9609",
+    "descricao":"SERVIÇOS DE TATUAGEM E COLOCAÇÃO DE PIERCING"
+  },
+  {
+    "cnae":"05/04/4330",
+    "descricao":"APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+  },
+  {
+    "cnae":"4789-0/05",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS"
+  },
+  {
+    "cnae":"4789-0/05",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS"
+  },
+  {
+    "cnae":"4789-0/04",
+    "descricao":"COMÉRCIO VAREJISTA DE ANIMAIS VIVOS E DE ARTIGOS E ALIMENTOS PARA ANIMAIS DE ESTIMAÇÃO"
+  },
+  {
+    "cnae":"02/05/4755",
+    "descricao":"COMERCIO VAREJISTA DE ARTIGOS DE ARMARINHO"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"04/06/4763",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE CAÇA, PESCA E CAMPING"
+  },
+  {
+    "cnae":"03/05/4755",
+    "descricao":"COMERCIO VAREJISTA DE ARTIGOS DE CAMA, MESA E BANHO"
+  },
+  {
+    "cnae":"02/07/4754",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE COLCHOARIA"
+  },
+  {
+    "cnae":"4759-8/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS ARTIGOS DE USO PESSOAL E DOMÉSTICO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"03/07/4754",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE ILUMINAÇÃO"
+  },
+  {
+    "cnae":"01/01/4783",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE JOALHERIA"
+  },
+  {
+    "cnae":"4774-1/00",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE ÓPTICA"
+  },
+  {
+    "cnae":"02/01/4783",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE RELOJOARIA"
+  },
+  {
+    "cnae":"01/08/4759",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE TAPEÇARIA, CORTINAS E PERSIANAS"
+  },
+  {
+    "cnae":"02/02/4782",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE VIAGEM"
+  },
+  {
+    "cnae":"4781-4/00",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/06/4763",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS ESPORTIVOS"
+  },
+  {
+    "cnae":"4789-0/08",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS FOTOGRÁFICOS E PARA FILMAGEM"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4773-3/00",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS MÉDICOS E ORTOPÉDICOS"
+  },
+  {
+    "cnae":"4759-8/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS ARTIGOS DE USO PESSOAL E DOMÉSTICO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4785-7/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS ARTIGOS USADOS"
+  },
+  {
+    "cnae":"4723-7/00",
+    "descricao":"COMÉRCIO VAREJISTA DE BEBIDAS"
+  },
+  {
+    "cnae":"03/06/4763",
+    "descricao":"COMÉRCIO VAREJISTA DE BICICLETAS E TRICICLOS; PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "cnae":"4789-0/01",
+    "descricao":"COMÉRCIO VAREJISTA DE SUVENIRES, BIJUTERIAS E ARTESANATOS"
+  },
+  {
+    "cnae":"01/06/4763",
+    "descricao":"COMÉRCIO VAREJISTA DE BRINQUEDOS E ARTIGOS RECREATIVOS"
+  },
+  {
+    "cnae":"4744-0/04",
+    "descricao":"COMÉRCIO VAREJISTA DE CAL, AREIA, PEDRA BRITADA, TIJOLOS E TELHAS"
+  },
+  {
+    "cnae":"01/02/4782",
+    "descricao":"COMÉRCIO VAREJISTA DE CALÇADOS"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4729-6/99",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4772-5/00",
+    "descricao":"COMÉRCIO VAREJISTA DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL"
+  },
+  {
+    "cnae":"4762-8/00",
+    "descricao":"COMÉRCIO VAREJISTA DE DISCOS, CDS, DVDS E FITAS"
+  },
+  {
+    "cnae":"4753-9/00",
+    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE ELETRODOMÉSTICOS E EQUIPAMENTOS DE ÁUDIO E VÍDEO"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4752-1/00",
+    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS DE TELEFONIA E COMUNICAÇÃO"
+  },
+  {
+    "cnae":"01/02/4751",
+    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMÁTICA"
+  },
+  {
+    "cnae":"4789-0/07",
+    "descricao":"COMÉRCIO VAREJISTA DE EQUIPAMENTOS PARA ESCRITÓRIO"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4744-0/01",
+    "descricao":"COMÉRCIO VAREJISTA DE FERRAGENS E FERRAMENTAS"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4789-0/06",
+    "descricao":"COMÉRCIO VAREJISTA DE FOGOS DE ARTIFÍCIO E ARTIGOS PIROTÉCNICOS"
+  },
+  {
+    "cnae":"4784-9/00",
+    "descricao":"COMÉRCIO VAREJISTA DE GÁS LIQUEFEITO DE PETRÓLEO (GLP)"
+  },
+  {
+    "cnae":"4756-3/00",
+    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE INSTRUMENTOS MUSICAIS E ACESSÓRIOS"
+  },
+  {
+    "cnae":"03/01/4721",
+    "descricao":"COMÉRCIO VAREJISTA DE LATICÍNIOS E FRIOS"
+  },
+  {
+    "cnae":"4732-6/00",
+    "descricao":"COMÉRCIO VAREJISTA DE LUBRIFICANTES"
+  },
+  {
+    "cnae":"4744-0/02",
+    "descricao":"COMÉRCIO VAREJISTA DE MADEIRA E ARTEFATOS"
+  },
+  {
+    "cnae":"4744-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE MATERIAIS DE CONSTRUÇÃO EM GERAL"
+  },
+  {
+    "cnae":"4744-0/03",
+    "descricao":"COMÉRCIO VAREJISTA DE MATERIAIS HIDRÁULICOS"
+  },
+  {
+    "cnae":"4742-3/00",
+    "descricao":"COMÉRCIO VAREJISTA DE MATERIAL ELÉTRICO"
+  },
+  {
+    "cnae":"04/07/4771",
+    "descricao":"COMÉRCIO VAREJISTA DE MEDICAMENTOS VETERINÁRIOS"
+  },
+  {
+    "cnae":"4713-0/02",
+    "descricao":"LOJAS DE VARIEDADES, EXCETO LOJAS DE DEPARTAMENTOS OU MAGAZINES"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/07/4754",
+    "descricao":"COMÉRCIO VAREJISTA DE MÓVEIS"
+  },
+  {
+    "cnae":"4789-0/03",
+    "descricao":"COMÉRCIO VAREJISTA DE OBJETOS DE ARTE"
+  },
+  {
+    "cnae":"03/07/4530",
+    "descricao":"COMÉRCIO A VAREJO DE PEÇAS E ACESSÓRIOS NOVOS PARA VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"4757-1/00",
+    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE PEÇAS E ACESSÓRIOS PARA APARELHOS ELETROELETRÔNICOS PARA USO DOMÉSTICO, EXCETO INFORMÁTICA E COMUNICAÇÃO"
+  },
+  {
+    "cnae":"4541-2/05",
+    "descricao":"COMÉRCIO A VAREJO DE PEÇAS E ACESSÓRIOS PARA MOTOCICLETAS E MOTONETAS"
+  },
+  {
+    "cnae":"4530-7/04",
+    "descricao":"COMÉRCIO A VAREJO DE PEÇAS E ACESSÓRIOS USADOS PARA VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4789-0/02",
+    "descricao":"COMÉRCIO VAREJISTA DE PLANTAS E FLORES NATURAIS"
+  },
+  {
+    "cnae":"05/07/4530",
+    "descricao":"COMÉRCIO A VAREJO DE PNEUMÁTICOS E CÂMARAS-DE-AR"
+  },
+  {
+    "cnae":"4772-5/00",
+    "descricao":"COMÉRCIO VAREJISTA DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL"
+  },
+  {
+    "cnae":"4789-0/05",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS"
+  },
+  {
+    "cnae":"4721-1/02",
+    "descricao":"PADARIA E CONFEITARIA COM PREDOMINÂNCIA DE REVENDA"
+  },
+  {
+    "cnae":"4729-6/01",
+    "descricao":"TABACARIA"
+  },
+  {
+    "cnae":"4771-7/03",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS HOMEOPÁTICOS"
+  },
+  {
+    "cnae":"4771-7/01",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS, SEM MANIPULAÇÃO DE FÓRMULAS"
+  },
+  {
+    "cnae":"4729-6/99",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4789-0/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4759-8/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS ARTIGOS DE USO PESSOAL E DOMÉSTICO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4755-5/01",
+    "descricao":"COMÉRCIO VAREJISTA DE TECIDOS"
+  },
+  {
+    "cnae":"4741-5/00",
+    "descricao":"COMÉRCIO VAREJISTA DE TINTAS E MATERIAIS PARA PINTURA"
+  },
+  {
+    "cnae":"4759-8/99",
+    "descricao":"COMÉRCIO VAREJISTA DE OUTROS ARTIGOS DE USO PESSOAL E DOMÉSTICO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4743-1/00",
+    "descricao":"COMÉRCIO VAREJISTA DE VIDROS"
+  },
+  {
+    "cnae":"1031-7/00",
+    "descricao":"FABRICAÇÃO DE CONSERVAS DE FRUTAS"
+  },
+  {
+    "cnae":"3299-0/02",
+    "descricao":"FABRICAÇÃO DE CANETAS, LÁPIS E OUTROS ARTIGOS PARA ESCRITÓRIO"
+  },
+  {
+    "cnae":"1742-7/01",
+    "descricao":"FABRICAÇÃO DE FRALDAS DESCARTÁVEIS"
+  },
+  {
+    "cnae":"1091-1/02",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE PADARIA E CONFEITARIA COM PREDOMINÂNCIA DE PRODUÇÃO PRÓPRIA."
+  },
+  {
+    "cnae":"6920-6/01",
+    "descricao":"ATIVIDADES DE CONTABILIDADE"
+  },
+  {
+    "cnae":"1412-6/01",
+    "descricao":"CONFECÇÃO DE PEÇAS DE VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS E AS CONFECCIONADAS SOB MEDIDA"
+  },
+  {
+    "cnae":"1412-6/02",
+    "descricao":"CONFECÇÃO, SOB MEDIDA, DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS"
+  },
+  {
+    "cnae":"9603-3/06",
+    "descricao":"SERVIÇOS DE SEPULTAMENTO"
+  },
+  {
+    "cnae":"5620-1/04",
+    "descricao":"FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA CONSUMO DOMICILIAR"
+  },
+  {
+    "cnae":"0159-8/02",
+    "descricao":"CRIAÇÃO DE ANIMAIS DE ESTIMAÇÃO"
+  },
+  {
+    "cnae":"0322-1/04",
+    "descricao":"CRIAÇÃO DE PEIXES ORNAMENTAIS EM ÁGUA DOCE"
+  },
+  {
+    "cnae":"0321-3/04",
+    "descricao":"CRIAÇÃO DE PEIXES ORNAMENTAIS EM ÁGUA SALGADA E SALOBRA"
+  },
+  {
+    "cnae":"1422-3/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS DO VESTUÁRIO, PRODUZIDOS EM MALHARIAS E TRICOTAGENS, EXCETO MEIAS"
+  },
+  {
+    "cnae":"9609-2/08",
+    "descricao":"HIGIENE E EMBELEZAMENTO DE ANIMAIS"
+  },
+  {
+    "cnae":"8712-3/00",
+    "descricao":"ATIVIDADES DE FORNECIMENTO DE INFRA-ESTRUTURA DE APOIO E ASSISTÊNCIA A PACIENTE NO DOMICÍLIO"
+  },
+  {
+    "cnae":"3211-6/03",
+    "descricao":"CUNHAGEM DE MOEDAS E MEDALHAS"
+  },
+  {
+    "cnae":"1510-6/00",
+    "descricao":"CURTIMENTO E OUTRAS PREPARAÇÕES DE COURO"
+  },
+  {
+    "cnae":"1340-5/99",
+    "descricao":"OUTROS SERVIÇOS DE ACABAMENTO EM FIOS, TECIDOS, ARTEFATOS TÊXTEIS E PEÇAS DO VESTUÁRIO"
+  },
+  {
+    "cnae":"8122-2/00",
+    "descricao":"IMUNIZAÇÃO E CONTROLE DE PRAGAS URBANAS"
+  },
+  {
+    "cnae":"9602-5/02",
+    "descricao":"ATIVIDADES DE ESTÉTICA E OUTROS SERVIÇOS DE CUIDADOS COM A BELEZA"
+  },
+  {
+    "cnae":"9700-5/00",
+    "descricao":"SERVIÇOS DOMÉSTICOS"
+  },
+  {
+    "cnae":"8219-9/99",
+    "descricao":"PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"9001-9/06",
+    "descricao":"ATIVIDADES DE SONORIZAÇÃO E DE ILUMINAÇÃO"
+  },
+  {
+    "cnae":"3600-6/02",
+    "descricao":"DISTRIBUIÇÃO DE ÁGUA POR CAMINHÕES"
+  },
+  {
+    "cnae":"04/01/5620",
+    "descricao":"FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA CONSUMO DOMICILIAR"
+  },
+  {
+    "cnae":"5912-0/01",
+    "descricao":"SERVIÇOS DE DUBLAGEM"
+  },
+  {
+    "cnae":"01/03/5812",
+    "descricao":"EDITOR DE JORNAIS DIÁRIOS"
+  },
+  {
+    "cnae":"02/03/5812",
+    "descricao":"EDITOR DE JORNAIS NÃO DIÁRIOS"
+  },
+  {
+    "cnae":"5819-1/00",
+    "descricao":"EDIÇÃO DE CADASTROS, LISTAS E DE OUTROS PRODUTOS GRÁFICOS"
+  },
+  {
+    "cnae":"5811-5/00",
+    "descricao":"EDIÇÃO DE LIVROS"
+  },
+  {
+    "cnae":"5813-1/00",
+    "descricao":"EDIÇÃO DE REVISTAS"
+  },
+  {
+    "cnae":"5912-0/99",
+    "descricao":"ATIVIDADES DE PÓS-PRODUÇÃO CINEMATOGRÁFICA, DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4520-0/03",
+    "descricao":"SERVIÇOS DE MANUTENÇÃO E REPARAÇÃO ELÉTRICA DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"4321-5/00",
+    "descricao":"INSTALAÇÃO E MANUTENÇÃO ELÉTRICA"
+  },
+  {
+    "cnae":"1822-9/01",
+    "descricao":"SERVIÇOS DE ENCADERNAÇÃO E PLASTIFICAÇÃO"
+  },
+  {
+    "cnae":"01/03/4322",
+    "descricao":"INSTALAÇÕES HIDRÁULICAS, SANITÁRIAS E DE GÁS"
+  },
+  {
+    "cnae":"9609-2/99",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/02/5320",
+    "descricao":"SERVIÇOS DE MALOTE NÃO REALIZADOS PELO CORREIO NACIONAL"
+  },
+  {
+    "cnae":"8292-0/00",
+    "descricao":"ENVASAMENTO E EMPACOTAMENTO SOB CONTRATO"
+  },
+  {
+    "cnae":"1340-5/01",
+    "descricao":"ESTAMPARIA E TEXTURIZAÇÃO EM FIOS, TECIDOS, ARTEFATOS TÊXTEIS E PEÇAS DO VESTUÁRIO"
+  },
+  {
+    "cnae":"02/05/9602",
+    "descricao":"ATIVIDADES DE ESTÉTICA E OUTROS SERVIÇOS DE CUIDADOS COM A BELEZA"
+  },
+  {
+    "cnae":"08/02/9609",
+    "descricao":"HIGIENE E EMBELEZAMENTO DE ANIMAIS DOMÉSTICOS"
+  },
+  {
+    "cnae":"05/01/9529",
+    "descricao":"REPARAÇÃO DE ARTIGOS DO MOBILIÁRIO"
+  },
+  {
+    "cnae":"1742-7/02",
+    "descricao":"FABRICAÇÃO DE ABSORVENTES HIGIÊNICOS"
+  },
+  {
+    "cnae":"1071-6/00",
+    "descricao":"FABRICAÇÃO DE AÇÚCAR EM BRUTO"
+  },
+  {
+    "cnae":"1031-7/00",
+    "descricao":"FABRICANTE DE CONSERVAS DE FRUTAS"
+  },
+  {
+    "cnae":"1122-4/99",
+    "descricao":"FABRICAÇÃO DE OUTRAS BEBIDAS NÃO-ALCOÓLICAS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1096-1/00",
+    "descricao":"FABRICAÇÃO DE ALIMENTOS E PRATOS PRONTOS"
+  },
+  {
+    "cnae":"1065-1/01",
+    "descricao":"FABRICAÇÃO DE AMIDOS E FÉCULAS DE VEGETAIS"
+  },
+  {
+    "cnae":"01/02/2532",
+    "descricao":"PRODUÇÃO DE ARTEFATOS ESTAMPADOS DE METAL"
+  },
+  {
+    "cnae":"01/02/2532",
+    "descricao":"PRODUÇÃO DE ARTEFATOS ESTAMPADOS DE METAL"
+  },
+  {
+    "cnae":"3230-2/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS PARA PESCA E ESPORTE"
+  },
+  {
+    "cnae":"1351-1/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS TÊXTEIS PARA USO DOMÉSTICO"
+  },
+  {
+    "cnae":"2541-1/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS DE CUTELARIA"
+  },
+  {
+    "cnae":"3299-0/05",
+    "descricao":"FABRICAÇÃO DE AVIAMENTOS PARA COSTURA"
+  },
+  {
+    "cnae":"1093-7/02",
+    "descricao":"FABRICAÇÃO DE FRUTAS CRISTALIZADAS, BALAS E SEMELHANTES"
+  },
+  {
+    "cnae":"1521-1/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS PARA VIAGEM, BOLSAS E SEMELHANTES DE QUALQUER MATERIAL"
+  },
+  {
+    "cnae":"3240-0/99",
+    "descricao":"FABRICAÇÃO DE OUTROS BRINQUEDOS E JOGOS RECREATIVOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1539-4/00",
+    "descricao":"FABRICAÇÃO DE CALÇADOS DE MATERIAIS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1531-9/01",
+    "descricao":"FABRICAÇÃO DE CALÇADOS DE COURO"
+  },
+  {
+    "cnae":"1099-6/05",
+    "descricao":"FABRICAÇÃO DE PRODUTOS PARA INFUSÃO (CHÁ, MATE, ETC.)"
+  },
+  {
+    "cnae":"1414-2/00",
+    "descricao":"FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO, EXCETO PARA SEGURANÇA E PROTEÇÃO"
+  },
+  {
+    "cnae":"1031-7/00",
+    "descricao":"FABRICAÇÃO DE CONSERVAS DE FRUTAS"
+  },
+  {
+    "cnae":"1032-5/99",
+    "descricao":"FABRICAÇÃO DE CONSERVAS DE LEGUMES E OUTROS VEGETAIS, EXCETO PALMITO"
+  },
+  {
+    "cnae":"2052-5/00",
+    "descricao":"FABRICAÇÃO DE DESINFESTANTES DOMISSANITÁRIOS"
+  },
+  {
+    "cnae":"1732-0/00",
+    "descricao":"FABRICAÇÃO DE EMBALAGENS DE CARTOLINA E PAPEL-CARTÃO"
+  },
+  {
+    "cnae":"1623-4/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE TANOARIA E DE EMBALAGENS DE MADEIRA"
+  },
+  {
+    "cnae":"1731-1/00",
+    "descricao":"FABRICAÇÃO DE EMBALAGENS DE PAPEL"
+  },
+  {
+    "cnae":"1095-3/00",
+    "descricao":"FABRICAÇÃO DE ESPECIARIAS, MOLHOS, TEMPEROS E CONDIMENTOS"
+  },
+  {
+    "cnae":"2512-8/00",
+    "descricao":"FABRICAÇÃO DE ESQUADRIAS DE METAL"
+  },
+  {
+    "cnae":"1311-1/00",
+    "descricao":"PREPARAÇÃO E FIAÇÃO DE FIBRAS DE ALGODÃO"
+  },
+  {
+    "cnae":"1312-0/00",
+    "descricao":"PREPARAÇÃO E FIAÇÃO DE FIBRAS TÊXTEIS NATURAIS, EXCETO ALGODÃO"
+  },
+  {
+    "cnae":"1220-4/99",
+    "descricao":"FABRICAÇÃO DE OUTROS PRODUTOS DO FUMO, EXCETO CIGARROS, CIGARRILHAS E CHARUTOS"
+  },
+  {
+    "cnae":"1099-6/99",
+    "descricao":"FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1099-6/04",
+    "descricao":"FABRICAÇÃO DE GELO COMUM"
+  },
+  {
+    "cnae":"3299-0/01",
+    "descricao":"FABRICAÇÃO DE GUARDA-CHUVAS E SIMILARES"
+  },
+  {
+    "cnae":"1742-7/99",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE PAPEL PARA USO DOMÉSTICO E HIGIÊNICO-SANITÁRIO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3220-5/00",
+    "descricao":"FABRICAÇÃO DE INSTRUMENTOS MUSICAIS, PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "cnae":"3240-0/99",
+    "descricao":"FABRICAÇÃO DE OUTROS BRINQUEDOS E JOGOS RECREATIVOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1052-0/00",
+    "descricao":"FABRICAÇÃO DE LATICÍNIOS"
+  },
+  {
+    "cnae":"3299-0/03",
+    "descricao":"FABRICAÇÃO DE LETRAS, LETREIROS E PLACAS DE QUALQUER MATERIAL, EXCETO LUMINOSOS"
+  },
+  {
+    "cnae":"02/06/2740",
+    "descricao":"FABRICAÇÃO DE LUMINÁRIAS E OUTROS EQUIPAMENTOS DE ILUMINAÇÃO"
+  },
+  {
+    "cnae":"1521-1/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS PARA VIAGEM, BOLSAS E SEMELHANTES DE QUALQUER MATERIAL"
+  },
+  {
+    "cnae":"1094-5/00",
+    "descricao":"FABRICAÇÃO DE MASSAS ALIMENTÍCIAS"
+  },
+  {
+    "cnae":"1421-5/00",
+    "descricao":"FABRICAÇÃO DE MEIAS"
+  },
+  {
+    "cnae":"1521-1/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS PARA VIAGEM, BOLSAS E SEMELHANTES DE QUALQUER MATERIAL"
+  },
+  {
+    "cnae":"3299-0/04",
+    "descricao":"FABRICAÇÃO DE PAINÉIS E LETREIROS LUMINOSOS"
+  },
+  {
+    "cnae":"1091-1/01",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE PANIFICAÇÃO INDUSTRIAL"
+  },
+  {
+    "cnae":"1721-4/00",
+    "descricao":"FABRICAÇÃO DE PAPEL"
+  },
+  {
+    "cnae":"1412-6/03",
+    "descricao":"FACÇÃO DE PEÇAS DO VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS"
+  },
+  {
+    "cnae":"1411-8/02",
+    "descricao":"FACÇÃO DE ROUPAS ÍNTIMAS"
+  },
+  {
+    "cnae":"1413-4/03",
+    "descricao":"FACÇÃO DE ROUPAS PROFISSIONAIS"
+  },
+  {
+    "cnae":"1540-8/00",
+    "descricao":"FABRICAÇÃO DE PARTES PARA CALÇADOS, DE QUALQUER MATERIAL"
+  },
+  {
+    "cnae":"1031-7/00",
+    "descricao":"FABRICAÇÃO DE CONSERVAS DE FRUTAS"
+  },
+  {
+    "cnae":"2063-1/00",
+    "descricao":"FABRICAÇÃO DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL"
+  },
+  {
+    "cnae":"2062-2/00",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE LIMPEZA E POLIMENTO"
+  },
+  {
+    "cnae":"1099-6/99",
+    "descricao":"FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3292-2/02",
+    "descricao":"FABRICAÇÃO DE EQUIPAMENTOS E ACESSÓRIOS PARA SEGURANÇA PESSOAL E PROFISSIONAL"
+  },
+  {
+    "cnae":"1013-9/01",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE CARNE"
+  },
+  {
+    "cnae":"1061-9/02",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DO ARROZ"
+  },
+  {
+    "cnae":"1071-6/00",
+    "descricao":"FABRICAÇÃO DE AÇÚCAR EM BRUTO"
+  },
+  {
+    "cnae":"1122-4/03",
+    "descricao":"FABRICAÇÃO DE REFRESCOS, XAROPES E PÓS PARA REFRESCOS, EXCETO REFRESCOS DE FRUTAS"
+  },
+  {
+    "cnae":"1411-8/01",
+    "descricao":"CONFECÇÃO DE ROUPAS ÍNTIMAS"
+  },
+  {
+    "cnae":"2061-4/00",
+    "descricao":"FABRICAÇÃO DE SABÕES E DETERGENTES SINTÉTICOS"
+  },
+  {
+    "cnae":"1033-3/01",
+    "descricao":"FABRICAÇÃO DE SUCOS CONCENTRADOS DE FRUTAS, HORTALIÇAS E LEGUMES"
+  },
+  {
+    "cnae":"1033-3/02",
+    "descricao":"FABRICAÇÃO DE SUCOS DE FRUTAS, HORTALIÇAS E LEGUMES, EXCETO CONCENTRADOS"
+  },
+  {
+    "cnae":"3299-0/06",
+    "descricao":"FABRICAÇÃO DE VELAS, INCLUSIVE DECORATIVAS"
+  },
+  {
+    "cnae":"1063-5/00",
+    "descricao":"FABRICAÇÃO DE FARINHA DE MANDIOCA E DERIVADOS"
+  },
+  {
+    "cnae":"1064-3/00",
+    "descricao":"FABRICAÇÃO DE FARINHA DE MILHO E DERIVADOS, EXCETO ÓLEOS DE MILHO"
+  },
+  {
+    "cnae":"2543-8/00",
+    "descricao":"FABRICAÇÃO DE FERRAMENTAS"
+  },
+  {
+    "cnae":"2543-8/00",
+    "descricao":"FABRICAÇÃO DE FERRAMENTAS"
+  },
+  {
+    "cnae":"7420-0/04",
+    "descricao":"FILMAGEM DE FESTAS E EVENTOS"
+  },
+  {
+    "cnae":"5620-1/01",
+    "descricao":"FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA EMPRESAS"
+  },
+  {
+    "cnae":"3702-9/00",
+    "descricao":"ATIVIDADES RELACIONADAS A ESGOTO, EXCETO A GESTÃO DE REDES"
+  },
+  {
+    "cnae":"8219-9/01",
+    "descricao":"FOTOCÓPIAS"
+  },
+  {
+    "cnae":"7420-0/01",
+    "descricao":"ATIVIDADES DE PRODUÇÃO DE FOTOGRAFIAS, EXCETO AÉREA E SUBMARINA"
+  },
+  {
+    "cnae":"7420-0/02",
+    "descricao":"ATIVIDADES DE PRODUÇÃO DE FOTOGRAFIAS AÉREAS E SUBMARINAS"
+  },
+  {
+    "cnae":"7420-0/02",
+    "descricao":"ATIVIDADES DE PRODUÇÃO DE FOTOGRAFIAS AÉREAS E SUBMARINAS"
+  },
+  {
+    "cnae":"4520-0/02",
+    "descricao":"SERVIÇOS DE LANTERNAGEM OU FUNILARIA E PINTURA DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"2539-0/02",
+    "descricao":"SERVIÇOS DE TRATAMENTO E REVESTIMENTO EM METAIS"
+  },
+  {
+    "cnae":"4330-4/03",
+    "descricao":"OBRAS DE ACABAMENTO EM GESSO E ESTUQUE"
+  },
+  {
+    "cnae":"8299-7/03",
+    "descricao":"SERVIÇOS DE GRAVAÇÃO DE CARIMBOS, EXCETO CONFECÇÃO"
+  },
+  {
+    "cnae":"8011-1/01",
+    "descricao":"ATIVIDADES DE VIGILÂNCIA E SEGURANÇA PRIVADA"
+  },
+  {
+    "cnae":"5211-7/02",
+    "descricao":"GUARDA-MÓVEIS"
+  },
+  {
+    "cnae":"7912-1/00",
+    "descricao":"OPERADORES TURÍSTICOS"
+  },
+  {
+    "cnae":"5229-0/02",
+    "descricao":"SERVIÇOS DE REBOQUE DE VEÍCULOS"
+  },
+  {
+    "cnae":"9001-9/01",
+    "descricao":"PRODUÇÃO TEATRAL"
+  },
+  {
+    "cnae":"4321-5/00",
+    "descricao":"INSTALAÇÃO E MANUTENÇÃO ELÉTRICA"
+  },
+  {
+    "cnae":"4321-5/00",
+    "descricao":"INSTALAÇÃO E MANUTENÇÃO ELÉTRICA"
+  },
+  {
+    "cnae":"4329-1/02",
+    "descricao":"INSTALAÇÃO DE EQUIPAMENTOS PARA ORIENTAÇÃO À NAVEGAÇÃO MARÍTIMA, FLUVIAL E LACUSTRE"
+  },
+  {
+    "cnae":"05/01/4329",
+    "descricao":"TRATAMENTOS TÉRMICOS, ACÚSTICOS OU DE VIBRAÇÃO"
+  },
+  {
+    "cnae":"05/01/4329",
+    "descricao":"TRATAMENTOS TÉRMICOS, ACÚSTICOS OU DE VIBRAÇÃO"
+  },
+  {
+    "cnae":"3321-0/00",
+    "descricao":"INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS"
+  },
+  {
+    "cnae":"01/01/4329",
+    "descricao":"INSTALAÇÃO DE PAINÉIS PUBLICITÁRIOS"
+  },
+  {
+    "cnae":"6190-6/99",
+    "descricao":"OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"03/03/4322",
+    "descricao":"INSTALAÇÕES DE SISTEMA DE PREVENÇÃO CONTRA INCÊNDIO"
+  },
+  {
+    "cnae":"4520-0/07",
+    "descricao":"SERVIÇOS DE INSTALAÇÃO, MANUTENÇÃO E REPARAÇÃO DE ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"03/01/4329",
+    "descricao":"INSTALAÇÃO, MANUTENÇÃO E REPARAÇÃO DE ELEVADORES, ESCADAS E ESTEIRAS ROLANTES"
+  },
+  {
+    "cnae":"8020-0/02",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS DE SEGURANÇA"
+  },
+  {
+    "cnae":"02/03/4322",
+    "descricao":"INSTALAÇÃO E MANUTENÇÃO DE SISTEMAS CENTRAIS DE AR CONDICIONADO, DE VENTILAÇÃO E REFRIGERAÇÃO"
+  },
+  {
+    "cnae":"8592-9/99",
+    "descricao":"ENSINO DE ARTE E CULTURA NÃO ESPECIFICADO ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/09/8592",
+    "descricao":"ENSINO DE ARTES CÊNICAS, EXCETO DANÇA"
+  },
+  {
+    "cnae":"04/06/8599",
+    "descricao":"TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL"
+  },
+  {
+    "cnae":"05/06/8599",
+    "descricao":"CURSOS PREPARATÓRIOS PARA CONCURSOS"
+  },
+  {
+    "cnae":"8593-7/00",
+    "descricao":"ENSINO DE IDIOMAS"
+  },
+  {
+    "cnae":"03/06/8599",
+    "descricao":"TREINAMENTO EM INFORMÁTICA"
+  },
+  {
+    "cnae":"03/09/8592",
+    "descricao":"ENSINO DE MÚSICA"
+  },
+  {
+    "cnae":"8130-3/00",
+    "descricao":"ATIVIDADES PAISAGÍSTICAS"
+  },
+  {
+    "cnae":"4761-0/02",
+    "descricao":"COMÉRCIO VAREJISTA DE JORNAIS E REVISTAS"
+  },
+  {
+    "cnae":"01/06/3211",
+    "descricao":"LAPIDAÇÃO DE GEMAS"
+  },
+  {
+    "cnae":"01/07/9601",
+    "descricao":"LAVANDERIAS"
+  },
+  {
+    "cnae":"03/07/9601",
+    "descricao":"TOALHEIROS"
+  },
+  {
+    "cnae":"4520-0/05",
+    "descricao":"SERVIÇOS DE LAVAGEM, LUBRIFICAÇÃO E POLIMENTO DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"9609-2/99",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"4761-0/01",
+    "descricao":"COMÉRCIO VAREJISTA DE LIVROS"
+  },
+  {
+    "cnae":"02/02/7732",
+    "descricao":"ALUGUEL DE ANDAIMES"
+  },
+  {
+    "cnae":"01/02/7729",
+    "descricao":"ALUGUEL DE APARELHOS DE JOGOS ELETRÔNICOS"
+  },
+  {
+    "cnae":"7739-0/02",
+    "descricao":"ALUGUEL DE EQUIPAMENTOS CIENTÍFICOS, MÉDICOS E HOSPITALARES, SEM OPERADOR"
+  },
+  {
+    "cnae":"7721-7/00",
+    "descricao":"ALUGUEL DE EQUIPAMENTOS RECREATIVOS E ESPORTIVOS"
+  },
+  {
+    "cnae":"7722-5/00",
+    "descricao":"ALUGUEL DE FITAS DE VÍDEO, DVDS E SIMILARES"
+  },
+  {
+    "cnae":"7729-2/99",
+    "descricao":"ALUGUEL DE OUTROS OBJETOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"7731-4/00",
+    "descricao":"ALUGUEL DE MÁQUINAS E EQUIPAMENTOS AGRÍCOLAS SEM OPERADOR"
+  },
+  {
+    "cnae":"01/02/7732",
+    "descricao":"ALUGUEL DE MÁQUINAS E EQUIPAMENTOS PARA CONSTRUÇÃO SEM OPERADOR, EXCETO ANDAIMES"
+  },
+  {
+    "cnae":"7733-1/00",
+    "descricao":"ALUGUEL DE MÁQUINAS E EQUIPAMENTOS PARA ESCRITÓRIO"
+  },
+  {
+    "cnae":"03/02/7729",
+    "descricao":"ALUGUEL DE MATERIAL MÉDICO"
+  },
+  {
+    "cnae":"02/02/7729",
+    "descricao":"ALUGUEL DE MÓVEIS, UTENSÍLIOS E APARELHOS DE USO DOMÉSTICO E PESSOAL; INSTRUMENTOS MUSICAIS"
+  },
+  {
+    "cnae":"02/02/7729",
+    "descricao":"ALUGUEL DE MÓVEIS, UTENSÍLIOS E APARELHOS DE USO DOMÉSTICO E PESSOAL; INSTRUMENTOS MUSICAIS"
+  },
+  {
+    "cnae":"7723-3/00",
+    "descricao":"ALUGUEL DE OBJETOS DO VESTUÁRIO, JÓIAS E ACESSÓRIOS"
+  },
+  {
+    "cnae":"7739-0/99",
+    "descricao":"ALUGUEL DE OUTRAS MÁQUINAS E EQUIPAMENTOS COMERCIAIS E INDUSTRIAIS NÃO ESPECIFICADOS ANTERIORMENTE, SEM OPERADOR"
+  },
+  {
+    "cnae":"7739-0/03",
+    "descricao":"ALUGUEL DE PALCOS, COBERTURAS E OUTRAS ESTRUTURAS DE USO TEMPORÁRIO, EXCETO ANDAIMES"
+  },
+  {
+    "cnae":"9609-2/99",
+    "descricao":"OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"9329-8/99",
+    "descricao":"OUTRAS ATIVIDADES DE RECREAÇÃO E LAZER NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/05/9602",
+    "descricao":"CABELEIREIROS, MANICURE E PEDICURE"
+  },
+  {
+    "cnae":"02/05/9602",
+    "descricao":"ATIVIDADES DE ESTÉTICA E OUTROS SERVIÇOS DE CUIDADOS COM A BELEZA"
+  },
+  {
+    "cnae":"3101-2/00",
+    "descricao":"FABRICAÇÃO DE MÓVEIS COM PREDOMINÂNCIA DE MADEIRA"
+  },
+  {
+    "cnae":"04/01/5620",
+    "descricao":"FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA CONSUMO DOMICILIAR"
+  },
+  {
+    "cnae":"4543-9/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS E MOTONETAS"
+  },
+  {
+    "cnae":"4520-0/01",
+    "descricao":"SERVIÇOS DE MANUTENÇÃO E REPARAÇÃO MECÂNICA DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"4712-1/00",
+    "descricao":"COMÉRCIO VAREJISTA DE MERCADORIAS EM GERAL, COM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS - MINIMERCADOS, MERCEARIAS E ARMAZÉNS"
+  },
+  {
+    "cnae":"02/01/7490",
+    "descricao":"ESCAFANDRIA E MERGULHO"
+  },
+  {
+    "cnae":"1069-4/00",
+    "descricao":"MOAGEM E FABRICAÇÃO DE PRODUTOS DE ORIGEM VEGETAL NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/05/3329",
+    "descricao":"SERVIÇOS DE MONTAGEM DE MÓVEIS DE QUALQUER MATERIAL"
+  },
+  {
+    "cnae":"04/01/4329",
+    "descricao":"MONTAGEM E INSTALAÇÃO DE SISTEMAS E EQUIPAMENTOS DE ILUMINAÇÃO E SINALIZAÇÃO EM VIAS PÚBLICAS, PORTOS E AEROPORTOS"
+  },
+  {
+    "cnae":"02/02/5320",
+    "descricao":"SERVIÇOS DE ENTREGA RÁPIDA"
+  },
+  {
+    "cnae":"4923-0/01",
+    "descricao":"SERVIÇO DE TÁXI"
+  },
+  {
+    "cnae":"3103-9/00",
+    "descricao":"FABRICAÇÃO DE MÓVEIS DE OUTROS MATERIAIS, EXCETO MADEIRA E METAL"
+  },
+  {
+    "cnae":"3102-1/00",
+    "descricao":"FABRICAÇÃO DE MÓVEIS COM PREDOMINÂNCIA DE METAL"
+  },
+  {
+    "cnae":"02/07/2342",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE CERÂMICA E BARRO COZIDO PARA USO NA CONSTRUÇÃO, EXCETO AZULEJOS E PISOS"
+  },
+  {
+    "cnae":"7319-0/03",
+    "descricao":"MARKETING DIRETO"
+  },
+  {
+    "cnae":"03/09/4929",
+    "descricao":"ORGANIZAÇÃO DE EXCURSÕES EM VEÍCULOS RODOVIÁRIOS PRÓPRIOS, MUNICIPAL"
+  },
+  {
+    "cnae":"06/01/9529",
+    "descricao":"REPARAÇÃO DE JÓIAS"
+  },
+  {
+    "cnae":"1091-1/01",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE PANIFICAÇÃO"
+  },
+  {
+    "cnae":"7319-0/02",
+    "descricao":"PROMOÇÃO DE VENDAS"
+  },
+  {
+    "cnae":"4761-0/03",
+    "descricao":"COMÉRCIO VAREJISTA DE ARTIGOS DE PAPELARIA"
+  },
+  {
+    "cnae":"05/04/4330",
+    "descricao":"APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+  },
+  {
+    "cnae":"03/01/4399",
+    "descricao":"OBRAS DE ALVENARIA"
+  },
+  {
+    "cnae":"02/09/4722",
+    "descricao":"PEIXARIA"
+  },
+  {
+    "cnae":"9313-1/00",
+    "descricao":"ATIVIDADES DE CONDICIONAMENTO FÍSICO"
+  },
+  {
+    "cnae":"4520-0/02",
+    "descricao":"SERVIÇOS DE LANTERNAGEM OU FUNILARIA E PINTURA DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"04/04/4330",
+    "descricao":"SERVIÇOS DE PINTURA DE EDIFÍCIOS EM GERAL"
+  },
+  {
+    "cnae":"5612-1/00",
+    "descricao":"SERVIÇOS AMBULANTES DE ALIMENTAÇÃO"
+  },
+  {
+    "cnae":"02/04/2092",
+    "descricao":"FABRICAÇÃO DE ARTIGOS PIROTÉCNICOS"
+  },
+  {
+    "cnae":"8129-0/00",
+    "descricao":"ATIVIDADES DE LIMPEZA NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/01/5620",
+    "descricao":"SERVIÇOS DE ALIMENTAÇÃO PARA EVENTOS E RECEPÇÕES - BUFÊ"
+  },
+  {
+    "cnae":"05/01/4399",
+    "descricao":"PERFURAÇÃO E CONSTRUÇÃO DE POÇOS DE ÁGUA"
+  },
+  {
+    "cnae":"02/05/2391",
+    "descricao":"APARELHAMENTO DE PEDRAS PARA CONSTRUÇÃO, EXCETO ASSOCIADO À EXTRAÇÃO"
+  },
+  {
+    "cnae":"8599-6/99",
+    "descricao":"OUTRAS ATIVIDADES DE ENSINO NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"8230-0/01",
+    "descricao":"SERVIÇOS DE ORGANIZAÇÃO DE FEIRAS, CONGRESSOS, EXPOSIÇÕES E FESTAS"
+  },
+  {
+    "cnae":"7990-2/00",
+    "descricao":"SERVIÇOS DE RESERVAS E OUTROS SERVIÇOS DE TURISMO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"7319-0/02",
+    "descricao":"PROMOÇÃO DE VENDAS"
+  },
+  {
+    "cnae":"01/06/5590",
+    "descricao":"ALBERGUES, EXCETO ASSISTENCIAIS"
+  },
+  {
+    "cnae":"02/02/5611",
+    "descricao":"BARES E OUTROS ESTABELECIMENTOS ESPECIALIZADOS EM SERVIR BEBIDAS"
+  },
+  {
+    "cnae":"02/06/5590",
+    "descricao":"CAMPINGS"
+  },
+  {
+    "cnae":"03/01/5620",
+    "descricao":"CANTINAS - SERVIÇOS DE ALIMENTAÇÃO PRIVATIVOS"
+  },
+  {
+    "cnae":"7319-0/99",
+    "descricao":"OUTRAS ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS ANTERIORMENTE"
+  },
+  {
+    "cnae":"03/02/5611",
+    "descricao":"LANCHONETES, CASAS DE CHÁ, DE SUCOS E SIMILARES"
+  },
+  {
+    "cnae":"03/02/5611",
+    "descricao":"LANCHONETES, CASAS DE CHÁ, DE SUCOS E SIMILARES"
+  },
+  {
+    "cnae":"8230-0/02",
+    "descricao":"CASAS DE FESTAS E EVENTOS"
+  },
+  {
+    "cnae":"5223-1/00",
+    "descricao":"ESTACIONAMENTO DE VEÍCULOS"
+  },
+  {
+    "cnae":"04/08/9329",
+    "descricao":"EXPLORAÇÃO DE JOGOS ELETRÔNICOS RECREATIVOS"
+  },
+  {
+    "cnae":"5590-6/99",
+    "descricao":"OUTROS ALOJAMENTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"03/02/5611",
+    "descricao":"LANCHONETES, CASAS DE CHÁ, DE SUCOS E SIMILARES"
+  },
+  {
+    "cnae":"03/06/5590",
+    "descricao":"PENSÕES (ALOJAMENTO)"
+  },
+  {
+    "cnae":"01/02/5611",
+    "descricao":"RESTAURANTES E SIMILARES"
+  },
+  {
+    "cnae":"07/07/8299",
+    "descricao":"SALAS DE ACESSO À INTERNET"
+  },
+  {
+    "cnae":"03/08/9329",
+    "descricao":"EXPLORAÇÃO DE JOGOS DE SINUCA, BILHAR E SIMILARES"
+  },
+  {
+    "cnae":"1052-0/00",
+    "descricao":"FABRICAÇÃO DE LATICÍNIOS"
+  },
+  {
+    "cnae":"4729-6/99",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"5612-1/00",
+    "descricao":"SERVIÇOS AMBULANTES DE ALIMENTAÇÃO"
+  },
+  {
+    "cnae":"02/02/4751",
+    "descricao":"RECARGA DE CARTUCHOS PARA EQUIPAMENTOS DE INFORMÁTICA"
+  },
+  {
+    "cnae":"3839-4/99",
+    "descricao":"RECUPERAÇÃO DE MATERIAIS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3831-9/99",
+    "descricao":"RECUPERAÇÃO DE MATERIAIS METÁLICOS, EXCETO ALUMÍNIO"
+  },
+  {
+    "cnae":"3832-7/00",
+    "descricao":"RECUPERAÇÃO DE MATERIAIS PLÁSTICOS"
+  },
+  {
+    "cnae":"01/09/3831",
+    "descricao":"RECUPERAÇÃO DE SUCATAS DE ALUMÍNIO"
+  },
+  {
+    "cnae":"1353-7/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE CORDOARIA"
+  },
+  {
+    "cnae":"03/01/9529",
+    "descricao":"REPARAÇÃO DE RELÓGIOS"
+  },
+  {
+    "cnae":"9603-3/99",
+    "descricao":"ATIVIDADES FUNERÁRIAS E SERVIÇOS RELACIONADOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"1359-6/00",
+    "descricao":"FABRICAÇÃO DE OUTROS PRODUTOS TÊXTEIS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3313-9/99",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"05/01/9529",
+    "descricao":"REPARAÇÃO DE ARTIGOS DO MOBILIÁRIO"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"10/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/09/3313",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE BATERIAS E ACUMULADORES ELÉTRICOS, EXCETO PARA VEÍCULOS"
+  },
+  {
+    "cnae":"04/01/9529",
+    "descricao":"REPARAÇÃO DE BICICLETAS, TRICICLOS E OUTROS VEÍCULOS NÃO-MOTORIZADOS"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3319-8/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/01/3317",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EMBARCAÇÕES PARA ESPORTE E LAZER"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS HIDRÁULICOS E PNEUMÁTICOS, EXCETO VÁLVULAS"
+  },
+  {
+    "cnae":"3319-8/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"10/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"10/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"01/09/3313",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE GERADORES, TRANSFORMADORES E MOTORES ELÉTRICOS"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"09/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS DE ESCREVER, CALCULAR E DE OUTROS EQUIPAMENTOS NÃO-ELETRÔNICOS PARA ESCRITÓRIO"
+  },
+  {
+    "cnae":"07/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E APARELHOS DE REFRIGERAÇÃO E VENTILAÇÃO PARA USO INDUSTRIAL E COMERCIAL"
+  },
+  {
+    "cnae":"3314-7/99",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE OUTRAS MÁQUINAS E EQUIPAMENTOS PARA USOS INDUSTRIAIS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3314-7/99",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE OUTRAS MÁQUINAS E EQUIPAMENTOS PARA USOS INDUSTRIAIS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"20/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA A INDÚSTRIA TÊXTIL, DO VESTUÁRIO, DO COURO E CALÇADOS"
+  },
+  {
+    "cnae":"11/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA AGRICULTURA E PECUÁRIA"
+  },
+  {
+    "cnae":"19/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA AS INDÚSTRIAS DE ALIMENTOS, BEBIDAS E FUMO"
+  },
+  {
+    "cnae":"01/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS MOTRIZES NÃO-ELÉTRICAS"
+  },
+  {
+    "cnae":"10/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3314-7/99",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE OUTRAS MÁQUINAS E EQUIPAMENTOS PARA USOS INDUSTRIAIS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"06/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS, APARELHOS E EQUIPAMENTOS PARA INSTALAÇÕES TÉRMICAS"
+  },
+  {
+    "cnae":"05/01/9529",
+    "descricao":"REPARAÇÃO DE ARTIGOS DO MOBILIÁRIO"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3311-2/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS, EXCETO PARA VEÍCULOS"
+  },
+  {
+    "cnae":"05/01/9529",
+    "descricao":"REPARAÇÃO DE ARTIGOS DO MOBILIÁRIO"
+  },
+  {
+    "cnae":"3319-8/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"12/07/3314",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE TRATORES AGRÍCOLAS"
+  },
+  {
+    "cnae":"3319-8/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3319-8/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"3319-8/00",
+    "descricao":"MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"9529-1/99",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE OUTROS OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/07/9002",
+    "descricao":"RESTAURAÇÃO DE OBRAS DE ARTE"
+  },
+  {
+    "cnae":"02/03/9102",
+    "descricao":"RESTAURAÇÃO E CONSERVAÇÃO DE LUGARES E PRÉDIOS HISTÓRICOS"
+  },
+  {
+    "cnae":"2950-6/00",
+    "descricao":"RECONDICIONAMENTO E RECUPERAÇÃO DE MOTORES PARA VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"7420-0/03",
+    "descricao":"LABORATÓRIOS FOTOGRÁFICOS"
+  },
+  {
+    "cnae":"04/01/5620",
+    "descricao":"FORNECIMENTO DE ALIMENTOS PREPARADOS PREPONDERANTEMENTE PARA CONSUMO DOMICILIAR"
+  },
+  {
+    "cnae":"0892-4/01",
+    "descricao":"EXTRAÇÃO DE SAL MARINHO"
+  },
+  {
+    "cnae":"1013-9/01",
+    "descricao":"FABRICAÇÃO DE PRODUTOS DE CARNE"
+  },
+  {
+    "cnae":"01/01/9529",
+    "descricao":"REPARAÇÃO DE CALÇADOS, DE BOLSAS E ARTIGOS DE VIAGEM"
+  },
+  {
+    "cnae":"01/01/8011",
+    "descricao":"ATIVIDADES DE VIGILÂNCIA E SEGURANÇA PRIVADA"
+  },
+  {
+    "cnae":"1529-7/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE COURO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"03/03/9603",
+    "descricao":"SERVIÇOS DE SEPULTAMENTO"
+  },
+  {
+    "cnae":"1813-0/99",
+    "descricao":"IMPRESSÃO DE MATERIAL PARA OUTROS USOS"
+  },
+  {
+    "cnae":"1813-0/01",
+    "descricao":"IMPRESSÃO DE MATERIAL PARA USO PUBLICITÁRIO"
+  },
+  {
+    "cnae":"2542-0/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS"
+  },
+  {
+    "cnae":"05/04/4330",
+    "descricao":"APLICAÇÃO DE REVESTIMENTOS E DE RESINAS EM INTERIORES E EXTERIORES"
+  },
+  {
+    "cnae":"2539-0/01",
+    "descricao":"SERVIÇOS DE USINAGEM, TORNEARIA E SOLDA"
+  },
+  {
+    "cnae":"4729-6/99",
+    "descricao":"COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"5612-1/00",
+    "descricao":"SERVIÇOS AMBULANTES DE ALIMENTAÇÃO"
+  },
+  {
+    "cnae":"1623-4/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE TANOARIA E DE EMBALAGENS DE MADEIRA"
+  },
+  {
+    "cnae":"1352-9/00",
+    "descricao":"FABRICAÇÃO DE ARTEFATOS DE TAPEÇARIA"
+  },
+  {
+    "cnae":"06/02/9609",
+    "descricao":"SERVIÇOS DE TATUAGEM E COLOCAÇÃO DE PIERCING"
+  },
+  {
+    "cnae":"4923-0/01",
+    "descricao":"SERVIÇO DE TÁXI"
+  },
+  {
+    "cnae":"1322-7/00",
+    "descricao":"TECELAGEM DE FIOS DE FIBRAS TÊXTEIS NATURAIS, EXCETO ALGODÃO"
+  },
+  {
+    "cnae":"1321-9/00",
+    "descricao":"TECELAGEM DE FIOS DE ALGODÃO"
+  },
+  {
+    "cnae":"06/09/9001",
+    "descricao":"ATIVIDADES DE SONORIZAÇÃO E DE ILUMINAÇÃO"
+  },
+  {
+    "cnae":"9511-8/00",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+  },
+  {
+    "cnae":"9521-5/00",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS ELETROELETRÔNICOS DE USO PESSOAL E DOMÉSTICO"
+  },
+  {
+    "cnae":"9512-6/00",
+    "descricao":"REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE COMUNICAÇÃO"
+  },
+  {
+    "cnae":"4399-1/99",
+    "descricao":"SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO NÃO ESPECIFICADOS ANTERIORMENTE"
+  },
+  {
+    "cnae":"02/07/9601",
+    "descricao":"TINTURARIAS"
+  },
+  {
+    "cnae":"2539-0/01",
+    "descricao":"SERVIÇOS DE USINAGEM, TORNEARIA E SOLDA"
+  },
+  {
+    "cnae":"08/02/9608",
+    "descricao":"HIGIENE E EMBELEZAMENTO DE ANIMAIS DOMÉSTICOS"
+  },
+  {
+    "cnae":"0162-8/02",
+    "descricao":"SERVIÇO DE TOSQUIAMENTO DE OVINOS"
+  },
+  {
+    "cnae":"01/08/5099",
+    "descricao":"TRANSPORTE AQUAVIÁRIO PARA PASSEIOS TURÍSTICOS"
+  },
+  {
+    "cnae":"4924-8/00",
+    "descricao":"TRANSPORTE ESCOLAR"
+  },
+  {
+    "cnae":"04/02/4930",
+    "descricao":"TRANSPORTE RODOVIÁRIO DE MUDANÇAS"
+  },
+  {
+    "cnae":"02/09/4929",
+    "descricao":"TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL"
+  },
+  {
+    "cnae":"02/02/5091",
+    "descricao":"TRANSPORTE POR NAVEGAÇÃO DE TRAVESSIA, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL"
+  },
+  {
+    "cnae":"01/04/5011",
+    "descricao":"TRANSPORTE MARÍTIMO DE CABOTAGEM - CARGA"
+  },
+  {
+    "cnae":"01/02/4930",
+    "descricao":"TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANÇAS, MUNICIPAL"
+  },
+  {
+    "cnae":"01/09/4929",
+    "descricao":"TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, MUNICIPAL"
+  },
+  {
+    "cnae":"01/02/5091",
+    "descricao":"TRANSPORTE POR NAVEGAÇÃO DE TRAVESSIA, MUNICIPAL"
+  },
+  {
+    "cnae":"01/01/5021",
+    "descricao":"TRANSPORTE POR NAVEGAÇÃO INTERIOR DE CARGA, MUNICIPAL, EXCETO TRAVESSIA"
+  },
+  {
+    "cnae":"1422-3/00",
+    "descricao":"FABRICAÇÃO DE ARTIGOS DO VESTUÁRIO, PRODUZIDOS EM MALHARIAS E TRICOTAGENS, EXCETO MEIAS"
+  },
+  {
+    "cnae":"3291-4/00",
+    "descricao":"FABRICAÇÃO DE ESCOVAS, PINCÉIS E VASSOURAS"
+  },
+  {
+    "cnae":"5612-1/00",
+    "descricao":"SERVIÇOS AMBULANTES DE ALIMENTAÇÃO"
+  },
+  {
+    "cnae":"4724-5/00",
+    "descricao":"COMÉRCIO VAREJISTA DE HORTIFRUTIGRANJEIROS"
+  },
+  {
+    "cnae":"4724-5/00",
+    "descricao":"COMÉRCIO VAREJISTA DE HORTIFRUTIGRANJEIROS"
+  },
+  {
+    "cnae":"4520-0/01",
+    "descricao":"SERVIÇOS DE MANUTENÇÃO E REPARAÇÃO MECÂNICA DE VEÍCULOS AUTOMOTORES"
+  },
+  {
+    "cnae":"4330-4/99",
+    "descricao":"OUTRAS OBRAS DE ACABAMENTO DA CONSTRUÇÃO"
+  },
+  {
+    "cnae":"01/01/8011",
+    "descricao":"ATIVIDADES DE VIGILÂNCIA E SEGURANÇA PRIVADA"
+  },
+  {
+    "cnae":"1099-6/01",
+    "descricao":"FABRICAÇÃO DE VINAGRES"
+  }
+]
