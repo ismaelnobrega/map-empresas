@@ -34,11 +34,8 @@
 <div class="container-fluid">
 	
 <div id='map_canvas'></div>
-	
-		<div class='well'>	
-	
-	 
-	 	<div id='results_list' class="hidden"></div>
+	<div class='well'>	
+	<div id='results_list' class="hidden"></div>
 </div>
 	 
 </div>
@@ -51,7 +48,15 @@
 							<a id='viewmode' href='#'><i class='glyphicon glyphicon-list-alt'></i>Listar empresas
 								</a>
 								</li>
-					
+						<!--<li>-->
+						<!--	<a id='portemode' href='#'>Porte: -->
+						<!--		</a>-->
+						<!--		<label class='checkbox inline'>-->
+      <!--            <input type='checkbox' id='cbType1' />-->
+      <!--            <span class='filter-box filter-blue'></span>  <!--MODIFY colors on this line and below -->-->
+      <!--            MEI <!--MODIFY labels on this line and below -->-->
+      <!--          </label>-->
+						<!--		</li>-->
 					
 					
 					<nav class="gn-menu-wrapper">
@@ -79,7 +84,7 @@
 								<div class='well well-sm'>
 									
 								
-										Por localidade: (<a id='find_me' href='#'>ache sua posição</a>)
+										Por localidade: <small>(<a id='find_me' href='#'>ache sua posição</a>)</small>
 									<p>
 										  <input class='typeahead' id='search_address' placeholder='Digite um endereço (Rua ou Bairro ou Cidade)' type='text' />
 										</p>
@@ -169,7 +174,7 @@
     <script type="text/javascript" src="js/jquery.dataTables.sorting.js"></script>
     <script type="text/javascript" src="js/jquery.dataTables.bootstrap-pagination.js"></script>
 	
-    <script type="text/javascript" src="js/mapas_lib.js"></script>
+    <script type="text/javascript" src="js/mapas.js"></script>
 	
 	
 	<script type='text/javascript'>
@@ -205,11 +210,11 @@
         $(function() {
           var myMap = new MapsLib({
             fusionTableId:      "1mQufMJwftXGcrqqt7kdxy2HwSH0h7v96zB2H5sBH",
-            googleApiKey:       "AIzaSyCagm7TcSdJJ9TrlGnT_Gv8igYamrdroqw",
+            googleApiKey:       "AIzaSyDMBqouYzpUEO0cp4Ljt-61zAMokCvz10g",
             locationColumn:     "LOCATION",
             map_center:         [-7.119774, -34.867504],
 			addrMarkerImage:    "images/male-2.png",
-            locationScope:      "paraíba"
+            locationScope:      "joao pessoa"
           });
 		  
 		  	  

@@ -172,7 +172,9 @@
         
         //-----custom filters-----
 		
-		
+		var type_column = "MEI";
+		var tempWhereClause = [];
+		if ( $("#cbType1").is(':checked')) tempWhereClause.push("1");
 		var text_search = $("#text_search").val().replace("'", "\\'");
 if (text_search != '')
   self.whereClause += " AND ATIVIDADE contains ignoring case '" + text_search + "'" + "AND MEI = 'MEI' ";
@@ -316,7 +318,7 @@ if (text_search != '')
 	
 	MapsLib.prototype.getList = function(whereClause) {
     var self = this;
-	var selectColumns = 'CNPJ, NOME_PESSOA_JURIDICA, ATIVIDADE, ENDERECO, NO_BAIRRO_COMERCIAL, NO_MUNICIPIO_COMERCIAL, NAN ';
+	var selectColumns = 'CNPJ, NOME_EMPRESARIAL, ATIVIDADE, LOCATION, BAIRRO, MUNICIPIO, MEI';
     var limite = 200;
     self.query({ 
       select: selectColumns, 
@@ -352,7 +354,7 @@ if (text_search != '')
             <th>Endereço</th>\
             <th>Bairro</th>\
             <th>Município</th>\
-			<th>Visitas</th>\
+			<th>PORTE</th>\
           </tr>\
         </thead>\
         <tbody>";
